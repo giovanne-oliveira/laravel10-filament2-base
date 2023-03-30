@@ -12,7 +12,7 @@ return [
         'PermissionResource' => App\Resources\PermissionResource::class,
     ],
     'pages'         => [
-        'Profile' => \Phpsa\FilamentAuthentication\Pages\Profile::class
+        'Profile' => App\Pages\Profile::class
     ],
     'Widgets'       => [
         'LatestUsers' => [
