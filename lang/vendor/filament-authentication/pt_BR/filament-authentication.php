@@ -46,7 +46,7 @@ return [
     */
     'filter.verified'               => 'E-mail Verificado',
 
-    'button.impersonate'            => "Personificar Usuário",
+    'button.impersonate'            => "Personificar",
     'text.impersonating'            => 'Personificando o Usuário: ',
-    'text.impersonating.end'        => ' - Encerrar Perssonificação ',
+    'text.impersonating.end'        => ' - Encerrar Personificação ',
 ];

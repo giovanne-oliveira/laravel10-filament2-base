@@ -47,7 +47,7 @@ class User extends Authenticatable
 
     public function canImpersonate()
     {
-        return $this->hasPermissionTo('impersonate');
+        return $this->hasPermissionTo('impersonate_user');
     }
 
 
